@@ -19,3 +19,6 @@ accomodating bolt will be submitted later for compatibility purposes.
 * (o) - Original File: These files are unmodified from the original design.
 
 Files located in [STLs/additional files/](https://github.com/ayerlock/3D-Printing/tree/master/Projects/RPi%20Camera%20Mount/STLs/additional%20files) were included in the original design but have not been modified or touched.
+
+![Camera Mount: Front](https://github.com/ayerlock/3D-Printing/tree/master/Projects/RPi%20Camera%20Mount/mount_side_front.jpg)
+![Camera Mount: Rear](https://github.com/ayerlock/3D-Printing/tree/master/Projects/RPi%20Camera%20Mount/mount_angle_rear.jpg)
