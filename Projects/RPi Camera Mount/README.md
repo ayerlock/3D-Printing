@@ -20,5 +20,5 @@ accomodating bolt will be submitted later for compatibility purposes.
 
 Files located in [STLs/additional files/](https://github.com/ayerlock/3D-Printing/tree/master/Projects/RPi%20Camera%20Mount/STLs/additional%20files) were included in the original design but have not been modified or touched.
 
-<img align="left" width=400 src="mount_side_front.jpg" />
+<img align="left" width=500 src="mount_side_front.jpg" />
 <img align="left" width=400 src="mount_angle_rear.jpg" />
