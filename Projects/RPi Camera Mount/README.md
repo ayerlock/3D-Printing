@@ -17,3 +17,5 @@ accomodating bolt will be submitted later for compatibility purposes.
 ## STL File Legend
 * [a] - Accent Color: can be printed in an accent color for a better looking finish.
 * (o) - Original File: These files are unmodified from the original design.
+
+Files located in [STLs/additional files/](https://github.com/ayerlock/3D-Printing/tree/master/Projects/RPi%20Camera%20Mount/STLs/additional%20files) were included in the original design but have not been modified or touched.
