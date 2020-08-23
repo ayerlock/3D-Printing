@@ -3,5 +3,5 @@ Modified version of the Articulating Camera Mount from Thingiverse found here: h
 
 This has been modified to work with a Raspberry Pi camera v1.3 and an Arducam CSI-HDMI Adapter.
 
-Raspberry Pi Camera v1.3: https://www.amazon.com/dp/B07RXKZ1KN
-Arducam CSI-HDMI Adapter: https://www.amazon.com/dp/B06XDNBM63
+* Raspberry Pi Camera v1.3: https://www.amazon.com/dp/B07RXKZ1KN
+* Arducam CSI-HDMI Adapter: https://www.amazon.com/dp/B06XDNBM63
