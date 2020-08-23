@@ -14,6 +14,6 @@ Currently the M6 profile ball nut does not work with the standard thumb screw.  
 has issues mating with the default thumb screw.  An updated M6 standard profile thumb screw and
 accomodating bolt will be submitted later for compatibility purposes.
 
-##STL File Legend
+## STL File Legend
 * [a] - Accent Color: can be printed in an accent color for a better looking finish.
 * (o) - Original File: These files are unmodified from the original design.
