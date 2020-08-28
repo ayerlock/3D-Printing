@@ -1,13 +1,18 @@
 # Raspberry Pi Camera Mount
 Modified version of the Articulating Camera Mount from Thingiverse found here: https://www.thingiverse.com/thing:3114849
 
-This has been modified to work with a Raspberry Pi camera v1.3 and an Arducam CSI-HDMI Adapter.
+This has been modified to work with both a Raspberry Pi camera v1.3 or v2.1 and an Arducam CSI-HDMI Adapter.
 
 * Raspberry Pi Camera v1.3: https://www.amazon.com/dp/B07RXKZ1KN
-* Arducam CSI-HDMI Adapter: https://www.amazon.com/dp/B06XDNBM63
+* Raspberry Pi Camera v2.1: https://www.amazon.com/dp/B01ER2SKFS
+* ArduCam CSI-HDMI Adapter: https://www.amazon.com/dp/B06XDNBM63
 
-The current design is known to work with the v1.3 camera.  A v2.1 camera has been ordered and will be
-tested for compatibility. Individual printers will require different numbers and types of the Link files
+Additionally support has been added for the Arducam IMX219 Auto Focus Camera Module.  There is a specific camera mount lid for it as it moves the lens 3mm lower on the PCB.
+
+* ArduCam IMX219 Auto Focus Camera Module: https://www.amazon.com/dp/B07TYKH1KC
+
+I will be adding support for the ArduCam 5MP Autofocus Camera.
+Individual printers will require different numbers and types of the Link files
 to be printed, based on mounting position and individual desire.
 
 Currently the M6 profile ball nut does not work with the standard thumb screw.  The default ball nut
