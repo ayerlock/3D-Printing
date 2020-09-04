@@ -12,9 +12,10 @@ For the drybox rods I have been cutting sections out of an 8' oak rod from Home 
 
 The box can hold up to 30 1kg. spools on 5 rods.  1 upper/lower on each side and 1 lower in the center.  The PTFE passthrough allows for rapid changes of filament from 4 pre-fed spools to the outside (more if you add a 2nd PTFE passthrough).  The PTFE Passthrough has threaded spaces for 4 PC4-M10 (1.12mm thread pitch) connectors on each side.
 
-<img align="left" width=500 src="images/Spool%20Holders%201.jpg" />
-<img align="left" width=500 src="images/Spool%20Holders%202.jpg" />
-<br>
-<img align="left" width=500 src="images/PTFE%20Passthrough%201.jpg" />
-<img align="left" width=500 src="images/PTFE%20Passthrough%202.jpg" />
-<img align="left" width=500 src="images/PTFE%20Passthrough%203.jpg" />
+<img align="left" width=600 src="images/PTFE%20Passthrough%201.jpg" />
+<img align="left" width=600 src="images/PTFE%20Passthrough%202.jpg" />
+<img align="left" width=600 src="images/PTFE%20Passthrough%203.jpg" />
+
+
+<img align="left" width=600 src="images/Spool%20Holders%201.jpg" />
+<img align="left" width=600 src="images/Spool%20Holders%202.jpg" />
