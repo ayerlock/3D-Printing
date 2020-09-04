@@ -13,7 +13,7 @@ For the drybox rods I have been cutting sections out of an 8' oak rod from Home 
 * M3x16mm SHCS: https://www.mcmaster.com/91290A120
 * M3 Hex Nuts: https://www.mcmaster.com/90593A001
 
-The box can hold up to 30 1kg. spools on 5 rods.  1 upper/lower on each side and 1 lower in the center.  The PTFE passthrough allows for rapid changes of filament from 4 pre-fed spools to the outside (more if you add a 2nd PTFE passthrough).  The PTFE Passthrough has threaded spaces for 4 PC4-M10 (1.12mm thread pitch) connectors on each side.
+The box can hold up to 30 1kg. spools on 5 rods.  1 upper/lower on each side and 1 lower in the center.  The lower rods can be used to hold 3 or 4 5lb. spools without interfering with the upper rods.  The PTFE passthrough allows for rapid changes of filament from 4 pre-fed spools to the outside (more if you add a 2nd PTFE passthrough).  The PTFE Passthrough has threaded spaces for 4 PC4-M10 (1.12mm thread pitch) connectors on each side.
 
 Each spool holder requires 5 M3x16mm SHCS and 5 M3 hex nuts.  So one fully supported rod will require 10 of each.  The PTFE passthrough requires 4 M3x12mm SHCS and 4 M3 hex nuts.
 
